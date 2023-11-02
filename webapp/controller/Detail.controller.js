@@ -10,6 +10,5 @@ sap.ui.define([
         return Controller.extend("sap.training.exc.controller.Detail", {
 
 
-
         });
     });
